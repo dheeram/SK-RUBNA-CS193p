@@ -1,35 +1,33 @@
 # CS193p
 
- Stanford CS193p (Developing Apps for iOS) for Spring 2020
+This repo details my progress for Stanford's CS193p (Developing Apps for iOS) - Spring 2020.
 
- Lectures, videos, and corrosponding project files from Stanford can be found [here](https://cs193p.sites.stanford.edu).
- 
- My Code, Notes & Assignment Solutions are listed below. You can also find my notes for the readings [here](https://github.com/sk-ruban/CS193p/tree/master/Readings%20Notes).
+My code, personal notes & assignment solutions (+ extra credit) are all listed in the table below. You can also find my notes for the readings [here](https://github.com/sk-ruban/CS193p/tree/master/Readings%20Notes).
 
-## Progress
+Lectures, videos & corresponding project files from Stanford can be found [here](https://cs193p.sites.stanford.edu).
 
-### Lectures
-|| Lectures | My Notes | My Code |
-| --------------- | --------------- | --------------- | --------------- | 
-| :white_check_mark: | [1: Intro to SwiftUI](https://www.youtube.com/watch?v=jbtqIBpUG7g) | [Notes 01](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/01%20-%20Intro%20to%20SwiftUI.md) | - |
-| :white_check_mark: | [2: MVVM & Swift Type System](https://www.youtube.com/watch?v=4GjXq2Sr55Q) | [Notes 02](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/02%20-%20MVVM%20%2B%20Swift%20Types.md) | [Memorize 01 & 02](https://github.com/sk-ruban/CS193p/tree/master/01%20%26%2002%20-%20Memorize) |
-| :white_check_mark: | [3: Reactive UI + Protocols + Layout](https://www.youtube.com/watch?v=SIYdYpPXil4) | [Notes 03](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/03%20-%20Reactive%20UI%20Protocols%20Layout.md) | |
-| :white_check_mark: | [4: Grid + enum + Optionals](https://www.youtube.com/watch?v=eHEeWzFP6O4)|[Notes 04](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/04%20-%20Grid%2C%20enum%20%26%20Optionals.md)||
-| :white_check_mark: | [5: ViewBuilder + Shape + ViewModifier](https://www.youtube.com/watch?v=oDKDGCRdSHc)|[Notes 05](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/05%20-%20ViewBuilder%20%2B%20Shape%20%2B%20ViewModifier.md)||
-| :white_check_mark: | [6: Animation](https://www.youtube.com/watch?v=3krC2c56ceQ)|[Notes 06](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/06%20-%20Animation.md)||
-| :white_check_mark: | [7: Multithreading EmojiArt](https://youtu.be/tmx-OwkBWxA)|||
-| :white_check_mark: | [8: Gestures JSON](https://youtu.be/mz-rNLWJ0bk)|||
-| :x: | [9: Data Flow](https://youtu.be/0i152oA3T3s)|||
-| :x: | [10: Navigation + TextField](https://youtu.be/CKexGQuIO7E)|||
+### 🚧 Progress
 
+| Lectures | My Notes | My Code | Assignments |
+| --------------- | :-------------: | :-------------: | :-------------: |
+| [1: Intro to SwiftUI](https://www.youtube.com/watch?v=jbtqIBpUG7g) | [Notes 01](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/01%20-%20Intro%20to%20SwiftUI.md) | - | - |
+| [2: MVVM & Swift Type System](https://www.youtube.com/watch?v=4GjXq2Sr55Q) | [Notes 02](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/02%20-%20MVVM%20%2B%20Swift%20Types.md) | [Memorize 01 & 02](https://github.com/sk-ruban/CS193p/tree/master/01%20%26%2002%20-%20Memorize) | [Solution 01](https://github.com/sk-ruban/CS193p/blob/master/Assignments/Assignment%201/README.md)|
+| [3: Reactive UI + Protocols + Layout](https://www.youtube.com/watch?v=SIYdYpPXil4) | [Notes 03](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/03%20-%20Reactive%20UI%20Protocols%20Layout.md) | - | - |
+| [4: Grid + enum + Optionals](https://www.youtube.com/watch?v=eHEeWzFP6O4)|[Notes 04](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/04%20-%20Grid%2C%20enum%20%26%20Optionals.md)|[Memorize 03 & 04](https://github.com/sk-ruban/CS193p/tree/master/03%20%26%2004%20-%20Memorize)| [Solution 02](https://github.com/sk-ruban/CS193p/blob/master/Assignments/Assignment%202/README.md)|
+| [5: ViewBuilder + Shape + ViewModifier](https://www.youtube.com/watch?v=oDKDGCRdSHc)|[Notes 05](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/05%20-%20ViewBuilder%20%2B%20Shape%20%2B%20ViewModifier.md)| - | - |
+| [6: Animation](https://www.youtube.com/watch?v=3krC2c56ceQ)|[Notes 06](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/06%20-%20Animation.md)|[Memorize 05 & 06](https://github.com/sk-ruban/CS193p/tree/master/05%20%26%2006%20-%20Memorize)| Not Done Yet|
+| [7: Multithreading EmojiArt](https://youtu.be/tmx-OwkBWxA)|[Notes 07](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/07%20-%20Multithreading%20EmojiArt.md)|-| - |
+| [8: Gestures JSON](https://youtu.be/mz-rNLWJ0bk)|[Notes 08](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/08%20-%20Gestures%20JSON.md)|[EmojiArt 07 & 08](https://github.com/sk-ruban/CS193p/tree/master/07%20%26%2008%20-%20EmojiArt)|[Solution 04](https://github.com/sk-ruban/CS193p/blob/master/Assignments/Assignment%204/README.md) & [Solution 05](https://github.com/sk-ruban/CS193p/blob/master/Assignments/Assignment%205/Assignment%205.md)|
+| [9: Data Flow](https://youtu.be/0i152oA3T3s) |[Notes 09](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/08%20-%20Gestures%20JSON.md)|-|-|
+| [10: Navigation + TextField](https://youtu.be/CKexGQuIO7E) |[Notes 10](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/08%20-%20Gestures%20JSON.md)|[EmojiArt 08 & 09](https://github.com/sk-ruban/CS193p/tree/master/07%20%26%2008%20-%20EmojiArt)|Not Done Yet|
+| [11: Picker](https://www.youtube.com/watch?v=fCfC6m7XUew&feature=youtu.be) |[Notes 11](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/11%20-%20Picker.md)|[Enroute 11](https://github.com/sk-ruban/CS193p/tree/master/11%20-%20Enroute)|-|
+| [12: Core Data](https://www.youtube.com/watch?v=yOhyOpXvaec) |[Notes 12](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/12%20-%20Core%20Data.md)|[Enroute 12](https://github.com/sk-ruban/CS193p/tree/master/12%20-%20Enroute)|-|
+| [13: Persistance](https://www.youtube.com/watch?v=fTNPRhGGP-0) |[Notes 13](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/13%20-%20Persistance.md)|[Emoji Art 13](https://github.com/sk-ruban/CS193p/tree/master/13%20-%20EmojiArt)|-|
+| [14: UIKit Integration](https://www.youtube.com/watch?v=GRX5Dha_Clw) |[Notes 14](https://github.com/sk-ruban/CS193p/blob/master/Lecture%20Notes/14%20-%20UIKit.md)|[Enroute 14](https://github.com/sk-ruban/CS193p/tree/master/14%20-%20Enroute%20%26%20EmojiArt/14%20-%20Enroute) & [EmojiArt 14](https://github.com/sk-ruban/CS193p/tree/master/14%20-%20Enroute%20%26%20EmojiArt/14%20-%20EmojiArt)|-|
 
-### Assignments
-|| Assignments | My Solutions | 
-| --------------- | --------------- | --------------- |
-| :white_check_mark: |[Assignment 1](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/a1.pdf)|[Solution 01](https://github.com/sk-ruban/CS193p/blob/master/Assignments/Assignment%201/README.md)|
-| :white_check_mark: |[Assignment 2](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/a2_0.pdf)|[Solution 02](https://github.com/sk-ruban/CS193p/blob/master/Assignments/Assignment%202.md)|
-| :x: |[Assignment 3](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_3.pdf)||
-| :white_check_mark: |[Assignment 4](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/a4_0.pdf)|[Solution 04]()|
-| :white_check_mark: |[Assignment 5](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/assignment_5.pdf)|[Solution 05](https://github.com/sk-ruban/CS193p/blob/master/Assignments/Assignment%205/Assignment%205.md)|
-| :x: |[Assignment 6](https://cs193p.sites.stanford.edu/sites/g/files/sbiybj16636/files/media/file/a6.pdf)||
+### 📸 Screenshots
+
+### 🍕 Extra Resources
+
+https://developer.apple.com/design/human-interface-guidelines/
 
